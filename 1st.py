@@ -1,3 +1,4 @@
+common i am remote
 <<<<<<< HEAD
 let see how to fix the bug here
 =======
